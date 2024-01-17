@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/burgoro/static/css/main.303e4027.css",
+    "main.js": "/burgoro/static/js/main.a8f914cd.js",
+    "static/media/backgroud-section1.jpg": "/burgoro/static/media/backgroud-section1.2c97c14068f5cf4e45d2.jpg",
+    "static/media/fundador.jpg": "/burgoro/static/media/fundador.00e35c675a5fa16a8496.jpg",
+    "static/media/background-chef-words.jpg": "/burgoro/static/media/background-chef-words.54cda4e94a40655eb20e.jpg",
+    "static/media/burger1.jpg": "/burgoro/static/media/burger1.4264d22f3e1a709cb525.jpg",
+    "static/media/burger2.jpg": "/burgoro/static/media/burger2.1aa80b0177e786ab2a97.jpg",
+    "static/media/coFounder1.jpg": "/burgoro/static/media/coFounder1.f233c42533ecb2eb4d49.jpg",
+    "static/media/coFounder2.jpg": "/burgoro/static/media/coFounder2.0249d92dc7a207d20278.jpg",
+    "index.html": "/burgoro/index.html",
+    "main.303e4027.css.map": "/burgoro/static/css/main.303e4027.css.map",
+    "main.a8f914cd.js.map": "/burgoro/static/js/main.a8f914cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.303e4027.css",
+    "static/js/main.a8f914cd.js"
+  ]
+}
